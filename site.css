@@ -302,7 +302,7 @@ footer .btn-social button{
     
 }
 
-@media only screen and (min-width : 200px) {
+@media only screen and (max-width: 667px){
     .flex{
         flex-direction:column-reverse;
     }
