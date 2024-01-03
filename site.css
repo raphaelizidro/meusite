@@ -302,11 +302,11 @@ footer .btn-social button{
     
 }
 
-@media screen and (max-width: 1020px){
-    .flex{
-        flex-direction:column-reverse;
+@media (max-width: 1200px){
+    section{
+    width: 1000px;
     }
-    
+
 .interface h2{
     margin-bottom:90px;
 }
