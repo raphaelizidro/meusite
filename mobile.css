@@ -1,0 +1,78 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 600px) and (max-width: 768px){
+    .flex{
+        flex-direction:column-reverse;
+    }
+
+.interface h2{
+    margin-bottom:90px;
+}
+.Habilidades {
+    position: absolute;
+    top:550%;
+    left:0;
+    margin-left:28px; 
+
+}
+
+.habilidades-box p{
+    display:none;
+}
+
+.titulo{
+    position: absolute;
+    top:320%;
+    left:0;
+    margin-left:28px;
+}
+.exp h1{
+    position: absolute;
+    top:8%;
+    left:0;
+    margin-left:28px;
+}
+
+.exp p{
+    margin-top:190px;
+
+}
+
+.proj p{
+    position:absolute;
+    margin-top:320px;
+
+}
+
+.proj h1{
+    position:absolute;
+    margin-top:250px;
+
+
+}
+
+.obj p{
+    position:absolute;
+    margin-top:2px;
+}
+.flex{
+    flex-direction:column-reverse;
+}
+
+.menu-desktop{
+    
+   font-size:13px;
+}
+
+.btn-contato{
+    display:none;
+}
+
+.btn-social{
+    display:none;
+}
+
+.line-footer{
+    margin-top:150px;
+}
+}
